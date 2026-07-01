@@ -1,67 +1,91 @@
-# 👨‍💻 Vishal Singh
+ Hi 👋, I'm Vishal Singh
 
-🎓 B.C.A Student  
-🏫 Veer Bahadur Singh Purvanchal University, Jaunpur (U.P.)  
-📧 vishalvs.0824@gmail.com  
-📞 +91-7355285374  
+🎓 BCA Student | Aspiring Data Analyst | SQL Enthusiast
 
----
-
-## 🚀 About Me
-Motivated and enthusiastic B.C.A. student with an interest in programming, data analytics, and technology. Skilled in basic programming languages and business tools with strong communication and problem-solving abilities.
+💡 Passionate about transforming raw data into meaningful insights through SQL, Python, Excel, and Power BI.
 
 ---
 
-# 🎓 Education
+ 🚀 About Me
 
-| Degree / Certificate | Institute / Board | Percentage | Year |
-|----------------------|------------------|------------|------|
-| B.C.A. | VBSPU | Pursuing | 2024 – Present |
-| Senior Secondary | State Board | 56.4% | 2022 |
-| Secondary | Board | 78.8% | 2020 |
-
----
-
-# 💻 Skills
-
-## 🔹 Technical Skills
-- Python  
-- Basic Java,C++,C  
-
-## 🔹 Tools & Technologies
-- Canva  
-- Tally  
-- Excel  
-- Power BI  
-- SQL  
-
-## 🔹 Non-Technical Skills
-- Communication  
-- Problem Solving  
-- Adaptability  
-- Team Player  
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+- 📊 Interested in **Data Analytics, SQL, and Business Intelligence**
+- 🐍 Currently learning **Python** for data analysis and automation
+- 📈 Love working on real-world datasets and extracting valuable insights
+- 🌱 Always learning new technologies and improving problem-solving skills
+- 🤝 Open to internships, collaborations, and data analytics opportunities
 
 ---
 
-# 📜 Certifications
-- ADCA (Advanced Diploma in Computer Applications)
+ 🛠️ Tech Stack
+
+##Programming
+- Python
+- Basic Java
+- SQL
+
+### Data Analytics
+- Microsoft SQL Server
+- Excel
+- Power BI
+- Pandas
+
+### Tools
+- VS Code
 
 ---
 
-# 🏆 Extra-Curricular Activities
-- District Cricket Player  
+## 💼 Experience
+
+### Data Analytics Intern
+**Happieloop**
+- Worked with real-world datasets
+- Data Cleaning using Python
+- Data Analysis
+- Data Visualization
+
+### Student Intern
+**Uptricks Services Pvt. Ltd.**
+- Worked on real project tasks
+- Collaborative software development
+- Enhanced practical development skills
 
 ---
 
-# 🌐 Languages
-- Hindi  
-- English  
+## 📜 Certifications
+
+- Deloitte Australia – Data Analytics Job Simulation
+- SQL Micro Course
+- Data Analytics Internship
+- Skill India Digital Hub
 
 ---
 
-## 📈 Career Objective
-To build a successful career in the IT and Data Analytics field by continuously learning new technologies and improving practical skills.
+## 📊 Featured Projects
+
+🔹 SQL Data Analysis Projects
+
+- Customer Insights
+- Sales Analysis
+- Hospital Database Analysis
+- Employee Management Queries
+- Advanced SQL Practice
+
+*(More projects coming soon...)*
 
 ---
 
-⭐ *“Code • Learn • Grow”*
+## 🌐 Connect with Me
+
+📧 Email: **vishalvs.0824@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/vishal-singh-75ba27359/
+
+---
+
+# 💬 Quote
+
+> "Turning data into decisions, one query at a time."
+
+⭐ If you like my projects, don't forget to star the repositories!
