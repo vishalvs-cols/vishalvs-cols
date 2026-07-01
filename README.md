@@ -82,6 +82,9 @@
 💼 LinkedIn:
 https://www.linkedin.com/in/vishal-singh-75ba27359/
 
+**Phone:**
+  735285374
+
 ---
 
 # 💬 Quote
