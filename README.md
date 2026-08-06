@@ -1,6 +1,6 @@
  Hi 👋, I'm Vishal Singh
 
-🎓 BCA Student | Aspiring Data Analyst | SQL Enthusiast
+🎓 BCA Student
 
 💡 Passionate about transforming raw data into meaningful insights through SQL, Python, Excel, and Power BI.
 
@@ -9,7 +9,7 @@
  🚀 About Me
 
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-- 📊 Interested in **Data Analytics, SQL, and Business Intelligence**
+- 📊 Interested in **Data Analytics, SQL, Frontend Developer**
 - 🐍 Currently learning **Python** for data analysis and automation
 - 📈 Love working on real-world datasets and extracting valuable insights
 - 🌱 Always learning new technologies and improving problem-solving skills
@@ -19,7 +19,7 @@
 
  🛠️ Tech Stack
 
-##Programming
+## Programming
 - Python
 - Basic Java
 - SQL
