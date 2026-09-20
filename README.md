@@ -1,4 +1,4 @@
- Hi 👋, I'm Vishal Singh
+ Hi 👋, I'm **Vishal Singh**
 
 🎓 BCA Student
 
