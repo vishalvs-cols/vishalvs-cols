@@ -6,10 +6,10 @@
 
 ---
 
- 🚀 About Me
+ ##🚀 About Me
 
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
-- 📊 Interested in **Data Analytics, SQL, Frontend Developer**
+- 📊 Interested in **Data Analytics, Frontend Developer**
 - 🐍 Currently learning **Python** for data analysis and automation
 - 📈 Love working on real-world datasets and extracting valuable insights
 - 🌱 Always learning new technologies and improving problem-solving skills
@@ -17,21 +17,28 @@
 
 ---
 
- 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Programming
-- Python
-- Basic Java
-- SQL
+## Programming Languages: 
+ - Python
+ - Java (Basics)
+## Web Technologies: 
+ - HTML5
+ - CSS3
+## Python Libraries: 
+ - Pandas
+ - NumPy
+ - Matplotlib
+ - Seaborn
+## Database: 
+ - SQL
+ - PostgreSQL
+## Tools: 
+ - Power BI
+ - Microsoft Excel
+ - Visual Studio Code
+ - Git & GitHub
 
-### Data Analytics
-- Microsoft SQL Server
-- Excel
-- Power BI
-- Pandas
-
-### Tools
-- VS Code
 
 ---
 
@@ -44,7 +51,6 @@
 - Data Analysis
 - Data Visualization
 
-### Student Intern
 **Uptricks Services Pvt. Ltd.**
 - Worked on real project tasks
 - Collaborative software development
