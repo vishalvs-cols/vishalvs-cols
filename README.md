@@ -6,7 +6,7 @@
 
 ---
 
- ##🚀 About Me
+ ## About Me
 
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - 📊 Interested in **Data Analytics, Frontend Developer**
@@ -17,23 +17,23 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-## Programming Languages: 
+**Programming Languages:** 
  - Python
  - Java (Basics)
-## Web Technologies: 
+**Web Technologies:** 
  - HTML5
  - CSS3
-## Python Libraries: 
+**Python Libraries:** 
  - Pandas
  - NumPy
  - Matplotlib
  - Seaborn
-## Database: 
+**Database:** 
  - SQL
  - PostgreSQL
-## Tools: 
+**Tools:** 
  - Power BI
  - Microsoft Excel
  - Visual Studio Code
