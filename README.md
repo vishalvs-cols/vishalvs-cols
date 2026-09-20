@@ -22,17 +22,21 @@
 **Programming Languages:** 
  - Python
  - Java (Basics)
+
 **Web Technologies:** 
  - HTML5
  - CSS3
+
 **Python Libraries:** 
  - Pandas
  - NumPy
  - Matplotlib
  - Seaborn
+
 **Database:** 
  - SQL
  - PostgreSQL
+
 **Tools:** 
  - Power BI
  - Microsoft Excel
